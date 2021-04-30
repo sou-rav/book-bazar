@@ -1,7 +1,14 @@
-# Assignment 10 for programming hero
-
 # Book Bazar
 
-this assignment is about book shop
+###  Technologies: 
+
+-HTML, CSS, React JS, React Router, React Bootstrap, Firebase Authentication.
+
+### Functions: :
+
+-Developed a working full-stack web application that serves the purposes of an online book shop.
+-Customers can select their desired service, order it & see their ordered services & status from dashboard.
+-I also developed an interactive dashboard for the admin, where s/he can see all the orders, upload new offerings, with photo add option, add new admin & see the list of all the orders.
+
 
 ### live site link: [click here](https://romantic-wiles-262c07.netlify.app/)
